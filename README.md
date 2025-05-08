@@ -1,6 +1,6 @@
 # California House Price Prediction
 
-This project is an AI-powered agent designed to predict house prices in California based on various features like location, size, number of rooms, and income . It leverages machine learning techniques to provide accurate and real-time predictions, aiding users in making informed real estate decisions.
+This project is an AI-powered agent designed to predict house prices in California based on various features like size(in sqft.), number of rooms,Population and income(in dollar) . It leverages machine learning techniques to provide accurate and real-time predictions, aiding users in making informed real estate decisions.
 
 
 # 1)Features
@@ -17,7 +17,7 @@ Python (Pandas, NumPy, Scikit-Learn)
 
 Streamlit for the frontend
 
-Machine Learning (Regression Models)
+Machine Learning (Linear Regression Models)
 
 # 3) Run the application 
 
@@ -25,7 +25,7 @@ Machine Learning (Regression Models)
 
 # Usage
 
-Enter the required features like location, number of rooms,income and size of the house.
+Enter the required features like size(in sqft.), number of rooms,Population and income(in dollar).
 
 The model will provide a predicted price based on the input data.
 
