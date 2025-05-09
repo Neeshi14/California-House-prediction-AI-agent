@@ -38,9 +38,7 @@ Data sourced from reliable California housing datasets.
 Inspiration from state-of-the-art real estate price prediction models.
 
 
-# web application
 
-![image](https://github.com/user-attachments/assets/c509061f-f192-4329-8f50-54c80326ca46)
 
 
 
