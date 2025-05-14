@@ -9,15 +9,13 @@ Predicts house prices based on key attributes.
 
 Uses machine learning models for high accuracy.
 
-Interactive conversational interface for seamless user experience.
-
 # 2)Technologies Used
 
 Python (Pandas, NumPy, Scikit-Learn)
 
 Streamlit for the frontend
 
-Machine Learning (Linear Regression Models)
+Machine Learning (Random Forest Regressor)
 
 # 3) Run the application 
 
